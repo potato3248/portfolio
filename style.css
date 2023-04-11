@@ -1,0 +1,12 @@
+img{
+    height: 401px;
+    width: 500px;
+    border: 2px solid black;
+
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color:rgb(133, 210, 210) ;
+    margin-bottom: 7.4px;
+}
